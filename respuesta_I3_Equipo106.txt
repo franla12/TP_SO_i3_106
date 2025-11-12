@@ -8,3 +8,20 @@ c)git checkout main
 git pull origin main
 git merge ayala
 git push origin main
+
+Ayala Ivan(Gamma)
+
+d) No, las ramas quedan intactas hasta que sean actualizadas manualmente.
+
+e) No hubo ningún problema en especifico, a lo mucho errores humanos al olvidarse hacer un
+commit o traer los cambios con un pull.
+
+f) git branch
+git fetch origin
+git branch -r
+git checkout -b aguirre origin/aguirre
+git pull origin aguirre
+git add *
+git commit -m ""
+git push origin Aguirre
+
