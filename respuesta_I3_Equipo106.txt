@@ -1,0 +1,10 @@
+Aguirre Franco(Beta)
+
+a) el master queda con todos los archivos creados en la rama main y en las dos ramas secundarias.
+
+b) si, pude ver todos los cambios se realizaron
+
+c)git checkout main
+git pull origin main
+git merge ayala
+git push origin main
