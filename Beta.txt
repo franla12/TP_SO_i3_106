@@ -1,0 +1,24 @@
+Aguirre Franco
+
+Configuraci¢n IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : Home
+   Direcci¢n IPv6 . . . . . . . . . . : 2802:8010:6238:4000:d86d:677a:efbb:3d34
+   Direcci¢n IPv6 temporal. . . . . . : 2802:8010:6238:4000:c08f:f909:807f:6fd5
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::ed40:4322:af83:2632%9
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.1.42
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::463b:14ff:fec9:f7b0%9
+                                       192.168.1.1
+
+Adaptador de Ethernet Ethernet 4:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::3e53:8efb:89d0:61c4%14
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+17:30
