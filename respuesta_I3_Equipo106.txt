@@ -25,3 +25,11 @@ git add *
 git commit -m ""
 git push origin Aguirre
 
+G) git branch
+git fetch origin
+git branch -r
+git checkout -b aguirre origin/aguirre
+git pull origin aguirre
+git add *
+git commit -m ""
+git push origin Aguirre
