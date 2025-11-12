@@ -51,3 +51,40 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
 
 =======
 
+Daguerre Ariel
+17:45
+
+Configuración IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . :
+   Dirección IPv6 . . . . . . . . . . : 2802:8010:b05b:4b01:19e6:6b5e:632:eb9e
+   Dirección IPv6 temporal. . . . . . : 2802:8010:b05b:4b01:745e:cf06:75d7:8436
+   Vínculo: dirección IPv6 local. . . : fe80::efbd:ca2d:7033:5641%7
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.1.41
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::5a11:22ff:fee3:5811%7
+                                       192.168.1.1
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::1559:16b3:1762:5daf%6
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+
+
+
+
+
+
+
+
+
+
+
+
